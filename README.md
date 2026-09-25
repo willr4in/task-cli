@@ -9,7 +9,3 @@ A simple command-line task tracker written in Go. Track what you need to do, wha
 - List all tasks, or filter by status (`todo`, `in-progress`, `done`)
 - Tasks persist in a `tasks.json` file in the current directory
 - No external dependencies — Go standard library only
-
-## Project page
-
-https://roadmap.sh/projects/task-tracker
